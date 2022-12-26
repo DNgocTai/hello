@@ -7,3 +7,11 @@ h1 {
     text-align: center;
     color: chocolate;
 }
+
+.img + .img {
+    margin-left: 12px;
+}
+
+.img {
+    box-shadow: 8px 12px 15px rgb(0 0 0 / 30%)
+}
