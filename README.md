@@ -6,4 +6,3 @@ This tutorial focuses mainly on Git and using GitHub as its remote.
 This repository is built step by step in the tutorial.
 
 Welcome to my Github <3.
-How to push branch from local Git to GitHub
